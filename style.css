@@ -3,3 +3,12 @@ color:white;
 background: black;
 
 }
+
+element.style {
+    background: red;
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
