@@ -4,11 +4,6 @@ background: black;
 
 }
 
-element.style {
-    background: red;
-}
-
-section {
-    display: block;
-    unicode-bidi: isolate;
+header {
+    border: solid 2px white;
 }
